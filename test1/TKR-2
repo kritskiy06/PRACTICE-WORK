@@ -28,11 +28,13 @@
             <td></td>
             <td><img src="eshop-logo.png" alt="logo"></td>
         </tr>
-
-
-
-
     </table>
+    <ul>
+        <li> Холодильник </li>
+        <li> Морозильна камера </li>
+        <li> Посудомийка </li>
+        
+    </ul>
     
 </body> 
 </html>
